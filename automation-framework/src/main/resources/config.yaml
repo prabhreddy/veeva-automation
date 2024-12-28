@@ -1,0 +1,13 @@
+browser: edge  # Browser name (chrome, firefox, edge)
+headless: false  # Headless mode: true/false
+
+urls:
+  core_product: https://www.nba.com/warriors
+  derived_product1: https://www.nba.com/sixers
+  derived_product2: https://www.nba.com/bulls
+
+waits:
+  implicit_wait: 20   # seconds
+  explicit_wait: 20   # seconds
+  fluent_wait_timeout: 30  # seconds
+  fluent_wait_polling: 2  # seconds

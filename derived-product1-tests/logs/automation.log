@@ -1,0 +1,220 @@
+2024-12-24 08:18:21 INFO  Hooks:20 - Starting Scenario: Filter tickets by criteria and validate
+2024-12-24 08:18:21 INFO  DriverManager:25 - Initializing WebDriver for browser: edge
+2024-12-24 08:18:25 INFO  Hooks:33 - Scenario Passed: Filter tickets by criteria and validate
+2024-12-24 08:18:25 INFO  DriverManager:55 - Closing WebDriver.
+2024-12-24 09:35:58 INFO  Hooks:21 - Starting Scenario: Filter tickets by criteria and validate with tags: []
+2024-12-24 09:35:58 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 09:36:01 INFO  Hooks:33 - Scenario Passed: Filter tickets by criteria and validate
+2024-12-24 09:36:01 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 09:37:11 INFO  Hooks:21 - Starting Scenario: Filter tickets by criteria and validate with tags: []
+2024-12-24 09:37:11 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 09:37:17 INFO  DerivedProduct1Steps:25 - Navigated to the tickets page at URL: https://www.nba.com/sixers
+2024-12-24 09:37:17 INFO  DerivedProduct1Steps:30 - Filtering tickets using criteria: VIP
+2024-12-24 09:37:17 INFO  DerivedProduct1Steps:41 - Filtered ticket details saved and attached to the report.
+2024-12-24 09:37:17 INFO  Hooks:33 - Scenario Passed: Filter tickets by criteria and validate
+2024-12-24 09:37:17 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:03:30 INFO  Hooks:26 - Starting Scenario: Filter tickets by criteria and validate in module: Derived Product 1
+2024-12-24 10:03:30 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:03:49 INFO  DerivedProduct1Steps:25 - Navigated to tickets page at URL: https://www.nba.com/sixers
+2024-12-24 10:03:49 INFO  DerivedProduct1Steps:31 - Filtering tickets by criteria: VIP
+2024-12-24 10:03:49 INFO  DerivedProduct1Steps:37 - Validated filtered tickets successfully.
+2024-12-24 10:03:49 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:03:49 INFO  Hooks:41 - Scenario Filter tickets by criteria and validate execution completed in module: Derived Product 1
+2024-12-24 10:15:07 INFO  Hooks:23 - Starting Scenario: Filter tickets by criteria and validate
+2024-12-24 10:15:08 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:15:13 INFO  DerivedProduct1Steps:25 - Navigated to tickets page at URL: https://www.nba.com/sixers
+2024-12-24 10:15:13 INFO  DerivedProduct1Steps:31 - Filtering tickets by criteria: VIP
+2024-12-24 10:15:13 INFO  DerivedProduct1Steps:37 - Validated filtered tickets successfully.
+2024-12-24 10:15:13 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:15:14 INFO  Hooks:36 - Completed Scenario: Filter tickets by criteria and validate
+2024-12-24 10:15:30 INFO  Hooks:23 - Starting Scenario: Filter tickets by criteria and validate
+2024-12-24 10:15:30 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:15:47 INFO  DerivedProduct1Steps:25 - Navigated to tickets page at URL: https://www.nba.com/sixers
+2024-12-24 10:15:47 INFO  DerivedProduct1Steps:31 - Filtering tickets by criteria: VIP
+2024-12-24 10:15:47 INFO  DerivedProduct1Steps:37 - Validated filtered tickets successfully.
+2024-12-24 10:15:47 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:15:47 INFO  Hooks:36 - Completed Scenario: Filter tickets by criteria and validate
+2024-12-24 10:28:40 INFO  Hooks:22 - Starting Scenario: Filter tickets by criteria and validate in module: Derived Product 1
+2024-12-24 10:28:40 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:28:45 INFO  DerivedProduct1Steps:25 - Navigated to tickets page at URL: https://www.nba.com/sixers
+2024-12-24 10:28:45 INFO  DerivedProduct1Steps:31 - Filtering tickets by criteria: VIP
+2024-12-24 10:28:45 INFO  DerivedProduct1Steps:37 - Validated filtered tickets successfully.
+2024-12-24 10:28:45 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:28:46 INFO  Hooks:37 - Completed Scenario: Filter tickets by criteria and validate
+2024-12-24 10:29:02 INFO  Hooks:22 - Starting Scenario: Filter tickets by criteria and validate in module: Derived Product 1
+2024-12-24 10:29:02 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:29:08 INFO  DerivedProduct1Steps:25 - Navigated to tickets page at URL: https://www.nba.com/sixers
+2024-12-24 10:29:08 INFO  DerivedProduct1Steps:31 - Filtering tickets by criteria: VIP
+2024-12-24 10:29:08 INFO  DerivedProduct1Steps:37 - Validated filtered tickets successfully.
+2024-12-24 10:29:08 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:29:09 INFO  Hooks:37 - Completed Scenario: Filter tickets by criteria and validate
+2024-12-24 10:46:38 INFO  Hooks:22 - Starting Scenario: Filter tickets by criteria and validate in module: Derived Product 1
+2024-12-24 10:46:38 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:46:47 INFO  DerivedProduct1Steps:25 - Navigated to tickets page at URL: https://www.nba.com/sixers
+2024-12-24 10:46:47 INFO  DerivedProduct1Steps:31 - Filtering tickets by criteria: VIP
+2024-12-24 10:46:47 INFO  DerivedProduct1Steps:37 - Validated filtered tickets successfully.
+2024-12-24 10:46:47 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:46:47 INFO  Hooks:37 - Completed Scenario: Filter tickets by criteria and validate
+2024-12-24 11:47:23 INFO  Hooks:22 - Starting Scenario: Filter tickets by criteria and validate in module: Derived Product 1
+2024-12-24 11:47:23 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 11:47:28 INFO  DerivedProduct1Steps:25 - Navigated to tickets page at URL: https://www.nba.com/sixers
+2024-12-24 11:47:28 INFO  DerivedProduct1Steps:31 - Filtering tickets by criteria: VIP
+2024-12-24 11:47:28 INFO  DerivedProduct1Steps:37 - Validated filtered tickets successfully.
+2024-12-24 11:47:28 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 11:47:29 INFO  Hooks:37 - Completed Scenario: Filter tickets by criteria and validate
+2024-12-24 11:48:07 INFO  Hooks:22 - Starting Scenario: Filter tickets by criteria and validate in module: Derived Product 1
+2024-12-24 11:48:07 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 11:48:12 INFO  DerivedProduct1Steps:25 - Navigated to tickets page at URL: https://www.nba.com/sixers
+2024-12-24 11:48:12 INFO  DerivedProduct1Steps:31 - Filtering tickets by criteria: VIP
+2024-12-24 11:48:12 INFO  DerivedProduct1Steps:37 - Validated filtered tickets successfully.
+2024-12-24 11:48:12 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 11:48:13 INFO  Hooks:37 - Completed Scenario: Filter tickets by criteria and validate
+2024-12-25 21:58:08 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 21:58:10 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 21:59:40 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 21:59:42 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 22:00:58 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:01:00 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 22:04:39 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:04:42 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 22:07:47 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:07:49 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 22:11:00 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:16:19 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:16:22 INFO  DerivedProduct1Steps:29 - Navigated to DP2 home page.
+2024-12-25 22:16:44 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 22:17:53 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:18:51 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:18:58 INFO  DerivedProduct1Steps:29 - Navigated to DP2 home page.
+2024-12-25 22:28:10 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:28:29 INFO  DerivedProduct1Steps:29 - Navigated to DP1 home page.
+2024-12-25 22:36:41 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:36:47 INFO  DerivedProduct1Steps:29 - Navigated to DP1 home page.
+2024-12-25 22:38:15 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:38:20 INFO  DerivedProduct1Steps:29 - Navigated to DP1 home page.
+2024-12-25 22:38:22 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 22:57:48 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 22:57:54 INFO  DerivedProduct1Steps:29 - Navigated to DP1 home page.
+2024-12-25 22:57:55 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 23:00:10 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 23:00:16 INFO  DerivedProduct1Steps:29 - Navigated to DP1 home page.
+2024-12-25 23:01:15 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 23:01:21 INFO  DerivedProduct1Steps:29 - Navigated to DP1 home page.
+2024-12-25 23:03:26 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 23:03:29 INFO  DerivedProduct1Steps:29 - Navigated to DP1 home page.
+2024-12-25 23:03:30 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 23:04:09 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 23:04:26 INFO  DerivedProduct1Steps:29 - Navigated to DP1 home page.
+2024-12-25 23:13:17 ERROR Hooks:48 - Failed to capture screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5354805a3a6a20d1291abdcf0ce0d094, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\prabh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50711}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50711/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5354805a3a6a20d1291abdcf0ce0d094
+2024-12-25 23:13:21 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 23:13:27 INFO  DerivedProduct1Steps:29 - Navigated to DP1 home page.
+2024-12-25 23:13:41 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 23:17:02 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 23:17:08 INFO  DerivedProduct1Steps:30 - Navigated to DP1 home page.
+2024-12-25 23:17:09 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-25 23:18:04 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-25 23:18:11 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-25 23:18:12 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 15:23:38 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:23:44 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:23:44 INFO  DerivedProduct1Steps:44 - Actual Slide Titles: [, , , , ]
+2024-12-26 15:23:45 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 15:24:03 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:24:11 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:24:11 INFO  DerivedProduct1Steps:44 - Actual Slide Titles: [, , , , ]
+2024-12-26 15:24:12 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 15:34:02 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:34:08 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:38:02 INFO  DerivedProduct1Steps:44 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 15:39:28 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:39:33 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:39:34 INFO  DerivedProduct1Steps:44 - Actual Slide Titles: [, , , , ]
+2024-12-26 15:39:48 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:39:53 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:39:53 INFO  DerivedProduct1Steps:44 - Actual Slide Titles: [, , , , ]
+2024-12-26 15:40:30 ERROR Hooks:48 - Failed to capture screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a8bf2e8e2f25e27135b62390d791c92d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\prabh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64210}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64210/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a8bf2e8e2f25e27135b62390d791c92d
+2024-12-26 15:40:33 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:40:52 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:41:24 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:41:27 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:41:30 INFO  DerivedProduct1Steps:45 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 15:44:21 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:44:24 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:44:27 INFO  DerivedProduct1Steps:45 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 15:48:01 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:48:08 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:48:11 INFO  DerivedProduct1Steps:45 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 15:48:11 INFO  DerivedProduct1Steps:53 - Expected Slide Titles: null
+2024-12-26 15:48:13 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 15:52:34 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:52:40 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:52:45 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 15:55:43 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:55:46 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:55:51 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 15:58:08 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 15:58:14 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 15:58:18 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 16:01:01 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 16:01:18 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 16:01:23 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 16:03:05 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 16:03:11 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 16:05:39 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 16:05:54 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 16:09:05 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 16:09:11 INFO  DerivedProduct1Steps:31 - Navigated to DP1 home page.
+2024-12-26 16:17:45 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 16:17:51 INFO  DerivedProduct1Steps:33 - Navigated to DP1 home page.
+2024-12-26 16:24:32 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 16:24:39 INFO  DerivedProduct1Steps:33 - Navigated to DP1 home page.
+2024-12-26 16:24:42 INFO  DerivedProduct1Steps:77 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 16:24:42 INFO  DerivedProduct1Steps:78 - Expected Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 16:24:42 INFO  DerivedProduct1Steps:116 - Actual Slide Durations: [0, 0, 0, 0, 0]
+2024-12-26 16:24:43 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 16:28:30 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 16:28:36 INFO  DerivedProduct1Steps:33 - Navigated to DP1 home page.
+2024-12-26 16:28:39 INFO  DerivedProduct1Steps:77 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 16:28:39 INFO  DerivedProduct1Steps:78 - Expected Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 16:28:40 INFO  DerivedProduct1Steps:88 - Actual Slide Durations: [0, 0, 0, 0, 0]
+2024-12-26 16:28:41 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 17:01:08 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 17:01:14 INFO  DerivedProduct1Steps:33 - Navigated to DP1 home page.
+2024-12-26 17:01:18 INFO  DerivedProduct1Steps:49 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 17:01:18 INFO  DerivedProduct1Steps:50 - Expected Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 17:01:18 INFO  DerivedProduct1Steps:60 - Actual Slide Durations: [0, 0, 0, 0, 0]
+2024-12-26 17:01:19 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 18:22:05 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 18:22:13 INFO  DerivedProduct1Steps:33 - Navigated to DP1 home page.
+2024-12-26 18:22:17 INFO  DerivedProduct1Steps:49 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 18:22:17 INFO  DerivedProduct1Steps:50 - Expected Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 18:22:17 INFO  DerivedProduct1Steps:60 - Actual Slide Durations: [0, 0, 0, 0, 0]
+2024-12-26 18:22:18 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-26 18:23:12 INFO  Hooks:22 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: Derived Product 1
+2024-12-26 18:23:21 INFO  DerivedProduct1Steps:33 - Navigated to DP1 home page.
+2024-12-26 18:23:24 INFO  DerivedProduct1Steps:49 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 18:23:24 INFO  DerivedProduct1Steps:50 - Expected Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-26 18:23:24 INFO  DerivedProduct1Steps:60 - Actual Slide Durations: [0, 0, 0, 0, 0]
+2024-12-26 18:23:26 INFO  Hooks:37 - Completed Scenario: Validate slides on Derived Product 1 homepage
+2024-12-27 08:53:22 INFO  Hooks:27 - Starting Scenario: Validate slides on Derived Product 1 homepage in module: null
+2024-12-27 08:53:28 INFO  DerivedProduct1Steps:33 - Navigated to DP1 home page.
+2024-12-27 08:53:31 INFO  DerivedProduct1Steps:49 - Actual Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-27 08:53:31 INFO  DerivedProduct1Steps:50 - Expected Slide Titles: [76ers Victorious Over Celtics in Holiday Matchup, Sixers Win in Monday Night Thriller, Sixers Swept Hornets in Regular Season Series, All-Star Voting is Now Open!, 76ers and Crypto.com Launch First Mobile Video Game Series in NBA]
+2024-12-27 08:53:31 INFO  DerivedProduct1Steps:60 - Actual Slide Durations: [0, 0, 0, 0, 0]
+2024-12-27 08:53:32 INFO  Hooks:44 - Completed Scenario: Validate slides on Derived Product 1 homepage

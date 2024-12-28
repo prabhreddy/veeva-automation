@@ -1,0 +1,10 @@
+<suite name="Derived Product 1 Suite" verbose="1" parallel="methods" thread-count="2">
+    <listeners>
+        <listener class-name="com.veeva.framework.listeners.TestNGExecutionListener" />
+    </listeners>
+    <test name="Derived Product 1 Tests">
+        <classes>
+            <class name="com.veeva.derivedproduct1.runner.DerivedProduct1TestRunner" />
+        </classes>
+    </test>
+</suite>

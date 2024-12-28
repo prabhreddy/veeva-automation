@@ -1,0 +1,297 @@
+2024-12-24 09:31:56 INFO  Hooks:21 - Starting Scenario: Validate footer links and content with tags: []
+2024-12-24 09:31:56 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 09:31:59 INFO  Hooks:33 - Scenario Passed: Validate footer links and content
+2024-12-24 09:31:59 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 09:35:39 INFO  Hooks:21 - Starting Scenario: Validate footer links and content with tags: []
+2024-12-24 09:35:39 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 09:35:45 INFO  DerivedProduct2Steps:25 - Navigated to the footer section at URL: https://www.nba.com/bulls
+2024-12-24 09:35:45 INFO  DerivedProduct2Steps:30 - Validating footer links.
+2024-12-24 09:35:45 INFO  DerivedProduct2Steps:41 - Footer validation details saved and attached to the report.
+2024-12-24 09:35:45 INFO  Hooks:33 - Scenario Passed: Validate footer links and content
+2024-12-24 09:35:45 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:05:09 INFO  Hooks:26 - Starting Scenario: Validate footer links and content in module: Derived Product 2
+2024-12-24 10:05:09 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:05:16 INFO  DerivedProduct2Steps:25 - Navigated to footer section at URL: https://www.nba.com/bulls
+2024-12-24 10:05:16 INFO  DerivedProduct2Steps:31 - Validated footer links.
+2024-12-24 10:05:16 INFO  DerivedProduct2Steps:37 - Footer contains 'Contact Us' validated successfully.
+2024-12-24 10:05:16 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:05:17 INFO  Hooks:41 - Scenario Validate footer links and content execution completed in module: Derived Product 2
+2024-12-24 10:12:18 INFO  Hooks:23 - Starting Scenario: Validate footer links and content
+2024-12-24 10:12:18 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:12:24 INFO  DerivedProduct2Steps:25 - Navigated to footer section at URL: https://www.nba.com/bulls
+2024-12-24 10:12:24 INFO  DerivedProduct2Steps:31 - Validated footer links.
+2024-12-24 10:12:24 INFO  DerivedProduct2Steps:37 - Footer contains 'Contact Us' validated successfully.
+2024-12-24 10:12:24 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:12:24 INFO  Hooks:36 - Completed Scenario: Validate footer links and content
+2024-12-24 10:12:48 INFO  Hooks:23 - Starting Scenario: Validate footer links and content
+2024-12-24 10:12:48 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:13:03 INFO  DerivedProduct2Steps:25 - Navigated to footer section at URL: https://www.nba.com/bulls
+2024-12-24 10:13:03 INFO  DerivedProduct2Steps:31 - Validated footer links.
+2024-12-24 10:13:03 INFO  DerivedProduct2Steps:37 - Footer contains 'Contact Us' validated successfully.
+2024-12-24 10:13:03 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:13:04 INFO  Hooks:36 - Completed Scenario: Validate footer links and content
+2024-12-24 10:27:26 INFO  Hooks:22 - Starting Scenario: Validate footer links and content in module: Derived Product 2
+2024-12-24 10:27:26 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:27:43 INFO  DerivedProduct2Steps:25 - Navigated to footer section at URL: https://www.nba.com/bulls
+2024-12-24 10:27:43 INFO  DerivedProduct2Steps:31 - Validated footer links.
+2024-12-24 10:27:43 INFO  DerivedProduct2Steps:37 - Footer contains 'Contact Us' validated successfully.
+2024-12-24 10:27:43 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:27:44 INFO  Hooks:37 - Completed Scenario: Validate footer links and content
+2024-12-24 10:28:14 INFO  Hooks:22 - Starting Scenario: Validate footer links and content in module: Derived Product 2
+2024-12-24 10:28:14 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:28:22 INFO  DerivedProduct2Steps:25 - Navigated to footer section at URL: https://www.nba.com/bulls
+2024-12-24 10:28:22 INFO  DerivedProduct2Steps:31 - Validated footer links.
+2024-12-24 10:28:22 INFO  DerivedProduct2Steps:37 - Footer contains 'Contact Us' validated successfully.
+2024-12-24 10:28:22 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:28:23 INFO  Hooks:37 - Completed Scenario: Validate footer links and content
+2024-12-24 10:47:02 INFO  Hooks:22 - Starting Scenario: Validate footer links and content in module: Derived Product 2
+2024-12-24 10:47:02 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:47:08 INFO  DerivedProduct2Steps:25 - Navigated to footer section at URL: https://www.nba.com/bulls
+2024-12-24 10:47:08 INFO  DerivedProduct2Steps:31 - Validated footer links.
+2024-12-24 10:47:08 INFO  DerivedProduct2Steps:37 - Footer contains 'Contact Us' validated successfully.
+2024-12-24 10:47:08 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 10:47:09 INFO  Hooks:37 - Completed Scenario: Validate footer links and content
+2024-12-24 11:48:34 INFO  Hooks:22 - Starting Scenario: Validate footer links and content in module: Derived Product 2
+2024-12-24 11:48:34 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 11:48:42 INFO  DerivedProduct2Steps:25 - Navigated to footer section at URL: https://www.nba.com/bulls
+2024-12-24 11:48:42 INFO  DerivedProduct2Steps:31 - Validated footer links.
+2024-12-24 11:48:42 INFO  DerivedProduct2Steps:37 - Footer contains 'Contact Us' validated successfully.
+2024-12-24 11:48:42 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 11:48:42 INFO  Hooks:37 - Completed Scenario: Validate footer links and content
+2024-12-24 11:49:00 INFO  Hooks:22 - Starting Scenario: Validate footer links and content in module: Derived Product 2
+2024-12-24 11:49:00 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 11:49:06 INFO  DerivedProduct2Steps:25 - Navigated to footer section at URL: https://www.nba.com/bulls
+2024-12-24 11:49:06 INFO  DerivedProduct2Steps:31 - Validated footer links.
+2024-12-24 11:49:06 INFO  DerivedProduct2Steps:37 - Footer contains 'Contact Us' validated successfully.
+2024-12-24 11:49:06 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 11:49:06 INFO  Hooks:37 - Completed Scenario: Validate footer links and content
+2024-12-25 16:32:27 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 16:32:30 INFO  DerivedProduct2Steps:36 - Navigated to DP2 home page.
+2024-12-25 16:32:30 INFO  DerivedProduct2Steps:42 - Scrolled down to the footer.
+2024-12-25 16:32:30 INFO  DerivedProduct2Steps:50 - Footer links saved to CSV file: footer-links.csv
+2024-12-25 16:32:30 INFO  DerivedProduct2Steps:59 - No duplicate hyperlinks found in the footer.
+2024-12-25 16:32:31 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 16:33:26 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 16:33:34 INFO  DerivedProduct2Steps:36 - Navigated to DP2 home page.
+2024-12-25 16:33:34 INFO  DerivedProduct2Steps:42 - Scrolled down to the footer.
+2024-12-25 16:33:36 INFO  DerivedProduct2Steps:50 - Footer links saved to CSV file: footer-links.csv
+2024-12-25 16:33:36 WARN  DerivedProduct2Steps:57 - Duplicate hyperlinks found in the footer.
+2024-12-25 16:33:37 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 16:45:03 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 16:45:07 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-25 16:45:07 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-25 16:45:10 INFO  DerivedProduct2Steps:53 - Footer links saved to CSV file: footer-links.csv
+2024-12-25 16:45:10 WARN  DerivedProduct2Steps:66 - Duplicate hyperlinks found: https://watch.nba.com/streaming-subscriptions, https://www.nba.com/bulls/, https://www.nba.com/bulls/roster, https://www.nba.com/stats/team/1610612741/traditional/, https://www.nba.com/stats/team/1610612741/players-traditional/, https://www.nba.com/bulls/leaders, https://www.nba.com/standings, https://windycity.gleague.nba.com/, https://www.nba.com/bulls/chicago-bulls-staff-directory, https://www.nba.com/bulls/schedule, https://www.nba.com/bulls/schedule/download, https://cdn.nba.com/teams/uploads/sites/1610612741/2024/12/Bulls_2425_Schedule_120424.pdf, https://www.nba.com/bulls/tickets/promotional-schedule, https://www.nba.com/bulls/news/radio, https://www.nba.com/bulls/tickets, https://www.nba.com/bulls/tickets/single, https://www.nba.com/bulls/tickets/seasons, https://www.nba.com/bulls/tickets/premium, https://www.nba.com/bulls/tickets/groups, https://www.nba.com/bulls/tickets/student-pass, https://www.nba.com/bulls/tickets/family-ticket-packs, https://www.nba.com/bulls/tickets/special-ticket-offers, https://www.nba.com/bulls/splashzone, https://www.nba.com/bulls/ticketfundraising, https://am.ticketmaster.com/bulls/?wt.mc_id=NBA_TEAM_CHI_AM_PAGE&_ga=2.122333961.384119606.1653322405-2060449351.1653322404, https://www.nba.com/bulls/tickets/mobile-ticketing, https://www.nba.com/bulls/news, https://www.nba.com/bulls/sam-smith, https://www.nba.com/bulls/partner-news, https://www.nba.com/bulls/photos, https://www.nba.com/bulls/?page_id=1040226, https://www.nba.com/bulls/game-notes, https://publogix.com/e/23-CHIBULLSYB, https://www.nba.com/bulls/videos, https://www.nba.com/bulls/bullstv/live, https://shop.bulls.com/, https://shop.bulls.com/collections/jerseys, https://shop.bulls.com/collections/hats, https://shop.bulls.com/collections/mens-apparel, https://shop.bulls.com/collections/womens-apparel, https://shop.bulls.com/collections/youth-shirts, https://madhouseteamstore.com/, https://www.nba.com/bulls/community, https://www.nba.com/bulls/community/fan-experiences, https://bullsraffle.com/, https://www.unitedcenter.com/, https://www.nba.com/bulls/know-before-you-go, https://www.nba.com/bulls/tickets/seating, http://bulls.io-media.com/web/index.html, https://www.nba.com/bulls/tickets/united-center-parking, https://www.nba.com/bulls/fans, https://www.nba.com/bulls/custom-jersey, https://www.nba.com/bulls/fanappreciation, https://www.nba.com/bulls/kidnation, https://www.nba.com/bulls/barnetwork, https://www.nba.com/bulls/nft, https://www.nba.com/bulls/mobile-phone-backgrounds, https://www.nba.com/bulls/entertainment, https://www.nba.com/bulls/national-anthem-submissions, https://www.nba.com/bulls/benny, https://www.nba.com/bulls/news/chicago-bulls-mobile-app, https://www.nba.com/bulls/centercourt, https://www.nba.com/bulls/partner-promotions, https://www.nba.com/bulls/ringofhonor, https://www.facebook.com/chicagobulls, https://twitter.com/chicagobulls, https://www.instagram.com/chicagobulls/, https://www.youtube.com/chicagobulls, https://www.tiktok.com/@chicagobulls, https://www.nba.com/watch/league-pass-stream?cid=nba:own:teamboufy25:watch:lp:lpsub:global:t-bulls&utm_medium=owned_team-bounty&utm_source=watch_na&utm_campaign=league-pass_lp-subscription&utm_content=nba:own:teamboufy25:watch:lp:lpsub:global:t-bulls, https://www.nba.com/bulls/category/features, https://www.nba.com/bulls/category/news, https://www.nba.com/accessibility
+2024-12-25 16:45:10 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 16:47:56 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 16:48:02 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-25 16:48:02 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-25 16:48:05 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 16:52:31 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 16:52:49 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-25 16:52:49 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-25 16:52:52 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 16:54:10 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 16:54:13 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-25 16:54:13 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-25 16:54:16 INFO  DerivedProduct2Steps:53 - Footer links saved to CSV file: footer-links.csv
+2024-12-25 16:54:16 WARN  DerivedProduct2Steps:62 - Duplicate hyperlinks found in the footer.
+2024-12-25 16:54:16 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 21:15:27 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 21:15:46 INFO  DerivedProduct2Steps:38 - Navigated to DP2 home page.
+2024-12-25 21:15:46 INFO  DerivedProduct2Steps:45 - Scrolled down to the footer.
+2024-12-25 21:15:52 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 21:16:35 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 21:16:43 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-25 21:16:43 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-25 21:16:47 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 21:22:03 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 21:22:05 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 21:22:19 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 21:22:22 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 21:22:42 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 21:22:48 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-25 21:22:48 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-25 21:22:50 INFO  DerivedProduct2Steps:53 - Footer links saved to CSV file: footer-links.csv
+2024-12-25 21:22:50 WARN  DerivedProduct2Steps:62 - Duplicate hyperlinks found in the footer.
+2024-12-25 21:22:51 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 21:23:34 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 21:23:38 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-25 21:23:38 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-25 21:23:41 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 21:24:25 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 21:24:28 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 21:24:53 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 21:25:08 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-25 21:25:08 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-25 21:25:12 INFO  DerivedProduct2Steps:53 - Footer links saved to CSV file: footer-links.csv
+2024-12-25 21:25:12 WARN  DerivedProduct2Steps:62 - Duplicate hyperlinks found in the footer.
+2024-12-25 21:25:12 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 21:58:44 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-25 21:59:13 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-25 21:59:13 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-25 21:59:16 INFO  DerivedProduct2Steps:53 - Footer links saved to CSV file: footer-links.csv
+2024-12-25 21:59:16 WARN  DerivedProduct2Steps:62 - Duplicate hyperlinks found in the footer.
+2024-12-25 21:59:16 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-25 22:11:47 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-26 15:25:23 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-26 15:25:30 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-26 15:25:30 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-26 15:25:33 INFO  DerivedProduct2Steps:53 - Footer links saved to CSV file: footer-links.csv
+2024-12-26 15:25:33 WARN  DerivedProduct2Steps:62 - Duplicate hyperlinks found in the footer.
+2024-12-26 15:25:33 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-26 17:00:41 INFO  Hooks:22 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-26 17:00:47 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-26 17:00:47 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-26 17:00:50 INFO  DerivedProduct2Steps:53 - Footer links saved to CSV file: footer-links.csv
+2024-12-26 17:00:50 WARN  DerivedProduct2Steps:62 - Duplicate hyperlinks found in the footer.
+2024-12-26 17:00:51 INFO  Hooks:37 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 08:51:39 INFO  Hooks:27 - Starting Scenario: Verify footer links and check for duplicates in module: null
+2024-12-27 08:51:45 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-27 08:51:45 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-27 08:51:48 INFO  Hooks:44 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 08:52:30 INFO  Hooks:27 - Starting Scenario: Verify footer links and check for duplicates in module: null
+2024-12-27 08:52:34 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-27 08:52:34 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-27 08:52:37 INFO  Hooks:44 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 13:24:43 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 13:24:49 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-27 13:24:49 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-27 13:24:52 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 13:27:48 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 13:28:01 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-27 13:28:01 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-27 13:28:05 INFO  DerivedProduct2Steps:53 - Footer links saved to CSV file: footer-links.csv
+2024-12-27 13:28:05 WARN  DerivedProduct2Steps:62 - Duplicate hyperlinks found in the footer.
+2024-12-27 13:28:05 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 13:35:21 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 13:35:37 INFO  DerivedProduct2Steps:39 - Navigated to DP2 home page.
+2024-12-27 13:35:37 INFO  DerivedProduct2Steps:46 - Scrolled down to the footer.
+2024-12-27 13:35:41 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 13:38:38 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 13:38:55 INFO  DerivedProduct2Steps:39 - Navigated to DP2 home page.
+2024-12-27 13:38:55 INFO  DerivedProduct2Steps:46 - Scrolled down to the footer.
+2024-12-27 13:38:58 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 13:42:38 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 13:42:51 INFO  DerivedProduct2Steps:39 - Navigated to DP2 home page.
+2024-12-27 13:42:51 INFO  DerivedProduct2Steps:46 - Scrolled down to the footer.
+2024-12-27 13:42:57 INFO  DerivedProduct2Steps:55 - Footer links saved to CSV file: extent-reports/resources/footer-links.csv
+2024-12-27 13:42:57 WARN  DerivedProduct2Steps:71 - Duplicate hyperlinks found in the footer.
+2024-12-27 13:42:57 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 13:50:18 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 13:50:34 INFO  DerivedProduct2Steps:39 - Navigated to DP2 home page.
+2024-12-27 13:50:34 INFO  DerivedProduct2Steps:46 - Scrolled down to the footer.
+2024-12-27 13:50:39 INFO  DerivedProduct2Steps:56 - Footer links saved to CSV file: target/extent-reports/footer-links.csv
+2024-12-27 13:50:39 WARN  DerivedProduct2Steps:73 - Duplicate hyperlinks found in the footer.
+2024-12-27 13:50:40 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 13:52:00 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 13:52:17 INFO  DerivedProduct2Steps:39 - Navigated to DP2 home page.
+2024-12-27 13:52:18 INFO  DerivedProduct2Steps:46 - Scrolled down to the footer.
+2024-12-27 13:52:23 INFO  DerivedProduct2Steps:56 - Footer links saved to CSV file: target/extent-reports/resources/footer-links.csv
+2024-12-27 13:52:23 WARN  DerivedProduct2Steps:73 - Duplicate hyperlinks found in the footer.
+2024-12-27 13:52:23 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:00:29 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:00:47 INFO  DerivedProduct2Steps:37 - Navigated to DP2 home page.
+2024-12-27 14:00:47 INFO  DerivedProduct2Steps:44 - Scrolled down to the footer.
+2024-12-27 14:00:52 INFO  DerivedProduct2Steps:74 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:00:52 INFO  DerivedProduct2Steps:74 - Duplicate Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-27 14:00:52 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:03:19 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:03:35 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:03:35 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:03:41 INFO  DerivedProduct2Steps:69 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:03:41 INFO  DerivedProduct2Steps:82 - Attached footer-links.csv successfully.
+2024-12-27 14:03:41 INFO  DerivedProduct2Steps:69 - Duplicate Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-27 14:03:41 WARN  DerivedProduct2Steps:84 - duplicate-footer-links.csv not found or is empty.
+2024-12-27 14:03:41 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:05:41 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:06:11 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:06:11 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:06:16 INFO  DerivedProduct2Steps:53 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:06:16 INFO  DerivedProduct2Steps:92 - Attached footer-links.csv successfully.
+2024-12-27 14:06:16 INFO  DerivedProduct2Steps:71 - Duplicate links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-27 14:06:16 WARN  DerivedProduct2Steps:94 - duplicate-footer-links.csv not found or is empty.
+2024-12-27 14:06:16 INFO  DerivedProduct2Steps:92 - Attached footer-links.csv successfully.
+2024-12-27 14:06:17 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:07:42 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:07:46 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:07:46 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:07:50 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:08:16 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:08:18 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:08:18 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:08:23 INFO  DerivedProduct2Steps:53 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:08:23 INFO  DerivedProduct2Steps:98 - Attached footer-links.csv successfully.
+2024-12-27 14:08:23 INFO  DerivedProduct2Steps:68 - Footer links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:08:23 INFO  DerivedProduct2Steps:98 - Attached footer-links.csv successfully.
+2024-12-27 14:08:23 INFO  DerivedProduct2Steps:81 - Duplicate links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-27 14:08:23 WARN  DerivedProduct2Steps:100 - duplicate-footer-links.csv not found or is empty.
+2024-12-27 14:08:23 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:16:47 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:16:49 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:16:49 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:16:54 INFO  DerivedProduct2Steps:54 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:16:54 INFO  DerivedProduct2Steps:85 - Attached footer-links.csv successfully.
+2024-12-27 14:16:54 INFO  DerivedProduct2Steps:54 - Duplicate Footer Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-27 14:16:54 WARN  DerivedProduct2Steps:87 - duplicate-footer-links.csv not found or is empty.
+2024-12-27 14:16:55 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:17:47 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:17:50 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:17:50 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:17:54 INFO  DerivedProduct2Steps:54 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:17:54 INFO  DerivedProduct2Steps:85 - Attached footer-links.csv successfully.
+2024-12-27 14:17:54 INFO  DerivedProduct2Steps:54 - Duplicate Footer Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-27 14:17:54 WARN  DerivedProduct2Steps:87 - duplicate-footer-links.csv not found or is empty.
+2024-12-27 14:17:55 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:18:14 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:18:16 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:18:16 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:18:19 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:18:37 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:18:39 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:18:39 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:18:45 INFO  DerivedProduct2Steps:54 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:18:45 INFO  DerivedProduct2Steps:85 - Attached footer-links.csv successfully.
+2024-12-27 14:18:45 INFO  DerivedProduct2Steps:54 - Duplicate Footer Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-27 14:18:45 WARN  DerivedProduct2Steps:87 - duplicate-footer-links.csv not found or is empty.
+2024-12-27 14:18:46 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:22:39 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:22:44 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:22:44 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:22:50 INFO  DerivedProduct2Steps:54 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:22:50 INFO  DerivedProduct2Steps:94 - Attached footer-links.csv successfully.
+2024-12-27 14:22:50 INFO  DerivedProduct2Steps:54 - Duplicate Footer Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-27 14:22:50 INFO  DerivedProduct2Steps:94 - Attached duplicate-footer-links.csv successfully.
+2024-12-27 14:22:50 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-27 14:24:02 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-27 14:24:08 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-27 14:24:08 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-27 14:24:14 INFO  DerivedProduct2Steps:54 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-27 14:24:14 INFO  DerivedProduct2Steps:94 - Attached footer-links.csv successfully.
+2024-12-27 14:24:14 INFO  DerivedProduct2Steps:54 - Duplicate Footer Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-27 14:24:14 INFO  DerivedProduct2Steps:94 - Attached duplicate-footer-links.csv successfully.
+2024-12-27 14:24:14 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-28 16:33:27 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-28 16:33:32 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-28 16:33:32 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-28 16:33:37 INFO  DerivedProduct2Steps:54 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-28 16:33:37 INFO  DerivedProduct2Steps:94 - Attached footer-links.csv successfully.
+2024-12-28 16:33:37 INFO  DerivedProduct2Steps:54 - Duplicate Footer Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-28 16:33:37 INFO  DerivedProduct2Steps:94 - Attached duplicate-footer-links.csv successfully.
+2024-12-28 16:33:37 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-28 23:01:20 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-28 23:01:36 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-28 23:01:36 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-28 23:01:41 INFO  DerivedProduct2Steps:54 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-28 23:01:41 INFO  DerivedProduct2Steps:94 - Attached footer-links.csv successfully.
+2024-12-28 23:01:41 INFO  DerivedProduct2Steps:54 - Duplicate Footer Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-28 23:01:41 INFO  DerivedProduct2Steps:94 - Attached duplicate-footer-links.csv successfully.
+2024-12-28 23:01:42 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates
+2024-12-28 23:21:31 INFO  Hooks:31 - Starting Scenario: Verify footer links and check for duplicates in module: Derived Product 2
+2024-12-28 23:21:37 INFO  DerivedProduct2Steps:33 - Navigated to DP2 home page.
+2024-12-28 23:21:37 INFO  DerivedProduct2Steps:40 - Scrolled down to the footer.
+2024-12-28 23:21:41 INFO  DerivedProduct2Steps:54 - Footer Links saved to file: target/extent-reports/resources/footer-links.csv
+2024-12-28 23:21:41 INFO  DerivedProduct2Steps:94 - Attached footer-links.csv successfully.
+2024-12-28 23:21:41 INFO  DerivedProduct2Steps:54 - Duplicate Footer Links saved to file: target/extent-reports/resources/duplicate-footer-links.csv
+2024-12-28 23:21:41 INFO  DerivedProduct2Steps:94 - Attached duplicate-footer-links.csv successfully.
+2024-12-28 23:21:42 INFO  Hooks:52 - Completed Scenario: Verify footer links and check for duplicates

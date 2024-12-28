@@ -1,0 +1,6 @@
+2024-12-24 08:59:09 INFO  DriverManager:25 - Initializing WebDriver for browser: edge
+2024-12-24 08:59:13 INFO  DriverManager:55 - Closing WebDriver.
+2024-12-24 10:44:14 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 10:44:17 INFO  DriverManager:57 - Closing WebDriver.
+2024-12-24 11:05:10 INFO  DriverManager:26 - Initializing WebDriver for browser: edge
+2024-12-24 11:05:14 INFO  DriverManager:57 - Closing WebDriver.

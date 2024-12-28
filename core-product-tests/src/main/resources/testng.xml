@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Parallel Execution Suite" parallel="methods" thread-count="5">
+    <listeners>
+        <listener class-name="com.veeva.framework.listeners.TestNGExecutionListener" />
+    </listeners>
+    <test name="Core Product Tests">
+        <classes>
+            <class name="com.veeva.coreproduct.runner.CoreProductTestRunner" />
+        </classes>
+    </test>
+</suite>

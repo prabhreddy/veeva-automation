@@ -21,7 +21,6 @@ public class DerivedProduct1Steps {
 
     private WebDriver driver = DriverManager.getDriver();
     private TicketsPage ticketsPage;
-
     private static final Logger logger = LogManager.getLogger(DerivedProduct1Steps.class);
 
     public DerivedProduct1Steps() {

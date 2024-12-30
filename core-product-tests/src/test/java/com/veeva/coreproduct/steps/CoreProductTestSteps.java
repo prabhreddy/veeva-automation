@@ -29,8 +29,6 @@ public class CoreProductTestSteps {
 
     private static final Logger logger = Log.getLogger(CoreProductTestSteps.class);
     private WebDriver driver = DriverManager.getDriver();
-//    private final String coreProductUrl = ConfigLoader.getInstance().getConfigValue("urls.core_product");
-
     private HomePage homePage;
     private ShopPage shopPage;
     private NewFeaturesPage newFeaturesPage;
@@ -148,30 +146,30 @@ public class CoreProductTestSteps {
 
 
 
-    //Second TC
-@Given("I navigate to the New & Features section from the menu")
-public void navigateToNewAndFeaturesSection() {
-    homePage.hoverOnMenuItem();
-    homePage.clickOnNewFeaturesMenu();
-    ExtentReportManager.getTest().info("Navigated to New & Features section.");
-    logger.info("Navigated to New & Features section.");
-}
+        //Second TC
+        @Given("I navigate to the New & Features section from the menu")
+        public void navigateToNewAndFeaturesSection() {
+        homePage.hoverOnMenuItem();
+        homePage.clickOnNewFeaturesMenu();
+        ExtentReportManager.getTest().info("Navigated to New & Features section.");
+        logger.info("Navigated to New & Features section.");
+        }
 
-    @When("I count total video feeds and video feeds posted within 3 days")
-    public void countVideoFeeds() throws InterruptedException {
+        @When("I count total video feeds and video feeds posted within 3 days")
+        public void countVideoFeeds() throws InterruptedException {
         int totalVideoFeeds = newFeaturesPage.getTotalVideoFeedsCount();
         int recentVideoFeeds = newFeaturesPage.getRecentVideoFeedsCount(3);
 
         ExtentReportManager.getTest().info("Total video feeds: " + totalVideoFeeds);
         ExtentReportManager.getTest().info("Video feeds posted within 3 days: " + recentVideoFeeds);
         logger.info("Total video feeds: {}, Video feeds within 3 days: {}", totalVideoFeeds, recentVideoFeeds);
-    }
+        }
 
-    @Then("I log the video feed counts in the report")
-    public void logVideoFeedsCounts() {
+        @Then("I log the video feed counts in the report")
+        public void logVideoFeedsCounts() {
         ExtentReportManager.getTest().pass("Video feed counts logged successfully.");
+        }
+
+
     }
-
-
-}
 

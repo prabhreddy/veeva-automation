@@ -1,9 +1,7 @@
 package com.veeva.framework.tests;
 
-import com.veeva.framework.driver.DriverManager;
-import com.veeva.framework.reporters.ReportManager;
+import com.veeva.framework.utils.ReportManager;
 import com.veeva.framework.config.ConfigLoader;
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

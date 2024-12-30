@@ -1,4 +1,4 @@
-package com.veeva.framework.reporters;
+package com.veeva.framework.utils;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;

@@ -80,7 +80,6 @@ public class HomePage extends BasePage {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].click();", newFeaturesMenu);
 
-//        newFeaturesMenu.click();
         logger.info("Clicked on New & Features menu.");
     }
 }

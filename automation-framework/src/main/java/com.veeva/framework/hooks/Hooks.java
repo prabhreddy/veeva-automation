@@ -21,7 +21,7 @@ public class Hooks {
     public void setup(Scenario scenario) {
         synchronized (this) {
             String browser = ConfigLoader.getInstance().getConfigValue("browser");
-            DriverManager.setDriver(browser); // Now resolved
+            DriverManager.setDriver(browser);
         }
         String moduleName = getModuleNameFromScenario(scenario); // Extract moduleName from scenario or feature file
         if (moduleName == null || moduleName.trim().isEmpty()) {
@@ -29,8 +29,6 @@ public class Hooks {
         }
         ExtentReportManager.createTest(moduleName, scenario.getName());
         logger.info("Starting Scenario: {} in module: {}", scenario.getName(), moduleName);
-//        ExtentReportManager.createTest(getModuleNameFromScenario(scenario), scenario.getName());
-//        logger.info("Starting Scenario: {} in module: {}", scenario.getName(), moduleName);
     }
 
 

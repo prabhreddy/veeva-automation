@@ -54,7 +54,7 @@ public class TicketsPage extends BasePage {
                 durations.add(Integer.parseInt(durationAttribute));
             } else {
                 // Fallback: Assume default duration if not specified
-                durations.add(0); // Replace 0 with a default value if needed
+                durations.add(0);
             }
         }
         return durations;

@@ -13,13 +13,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ShopPage extends BasePage {
-
-//    private final WebDriver driver;
     private static final Logger logger = LoggerFactory.getLogger(ShopPage.class);
-
     @FindBy(xpath = "//a[@data-trk-id='topnav-group-ga-1_men']")
     private WebElement mensSection;
-    //            "//a[@id='0']")
+
     @FindBy(xpath = "//span[normalize-space()='Jackets']")
     private WebElement jacketRadioButton;
 
@@ -70,7 +67,6 @@ public class ShopPage extends BasePage {
             collectCurrentPageJacketDetails(isFirstPage);
             isFirstPage = false;
 
-//            logger.info("Collected {} jacket details from the current page.", currentPageDetails.size());
         } while (navigateToNextPage());
         logger.info("Total jackets collected: {}", allJacketDetails.size());
         return allJacketDetails;
